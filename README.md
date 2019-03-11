@@ -22,7 +22,7 @@ pod 'FFPhotoPicker'
 
 ## Author
 
-fengtengfei, fengtengfei01@58.com
+fftoken 1005052145@qq.com
 
 ## License
 
